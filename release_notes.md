@@ -1,4 +1,11 @@
-# IV League DBS Release Notes 08/18/19
+# 08/19/19
+
+## Bug Fixes / Improvements
+
+  - Show deliveries sent before noon
+
+
+# 08/18/19
 
 ## New Features!
 
