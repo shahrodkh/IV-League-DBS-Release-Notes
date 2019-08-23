@@ -1,3 +1,11 @@
+# 08/22/19
+
+## New Features!
+
+  - Inventory statistics
+    - Quickly check the min and max quantity dispensed in a week though  ```Inventory``` form
+    - Query a custom date range
+
 # 08/19/19
 
 ## Bug Fixes / Improvements
